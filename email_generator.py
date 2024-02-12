@@ -18,7 +18,6 @@ prompt = PromptTemplate(
 )
 
 content = input("Email content: ")
-# sorry about the broken cup, we can replace it or provide a refund
 customer = input("Customer name: ")
 agent = input("Agent name: ")
 
